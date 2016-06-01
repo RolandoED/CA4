@@ -4,12 +4,12 @@
 ## Programación 2
 *Prof. Jorge Davián Aguilar Oviedo*
 
-**Ejercicio 03**
+**Ejercicio 04**
 
 ## Propósito
 Ejemplo de los siguientes temas
 - **Objetos**
-- **Manejo de Archivos Planos*
+- **Manejo de Archivos Planos**
 
 
 Enlace a repositorio | Enlace de Invitacion
